@@ -1,6 +1,6 @@
 # Hi, I'm Taha Raza 👋
 
-**Computer Science student** and founder of **[Softologics](https://softologics.pro)** — I build web applications and AI automation systems.
+**Computer Science student** and manager of **[Softologics](https://softologics.pro)** — I build web applications and AI automation systems.
 
 - 🔭 Building AI-powered content pipelines, agentic tools, and full-stack apps
 - 💼 Running a web development & AI automation agency
